@@ -1,0 +1,11 @@
+{
+  "iteration": 6,
+  "completed": [],
+  "val_losses": {
+    "math": 1.2274,
+    "reasoning": 1.8431,
+    "code": 1.5685,
+    "conversation": 2.4533,
+    "knowledge": 1.7408
+  }
+}

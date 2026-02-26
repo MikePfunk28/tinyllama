@@ -1,0 +1,13 @@
+{
+  "completed": [
+    "math",
+    "code",
+    "reasoning",
+    "conversation",
+    "knowledge",
+    "science"
+  ],
+  "current": null,
+  "epoch": 2,
+  "batch": 200
+}

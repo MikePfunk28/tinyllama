@@ -1,0 +1,17 @@
+{
+  "history": {
+    "train_loss": [
+      3.938448935840571
+    ],
+    "val_loss": [
+      2.835782195392408
+    ],
+    "val_ppl": [
+      17.04372661225244
+    ]
+  },
+  "best_val_loss": 2.835782195392408,
+  "test_ppl": 15.416774046089225,
+  "description": "Code generation",
+  "params": 20214720
+}
